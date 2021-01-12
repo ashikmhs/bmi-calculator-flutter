@@ -2,6 +2,14 @@
 
 A new Flutter application.
 
+<p align="center">
+<img src="https://github.com/ashikmhs/bmi-calculator-flutter/blob/master/screenshort/screensort1.png" width="250"  />
+</p>
+
+<p align="center">
+<img src="https://github.com/ashikmhs/bmi-calculator-flutter/blob/master/screenshort/sreensort2.png" width="250"  />
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
