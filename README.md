@@ -3,11 +3,11 @@
 A new Flutter application.
 
 <p align="center">
-<img src="https://github.com/ashikmhs/bmi-calculator-flutter/blob/master/screenshort/screensort1.png" width="250"  />
+<img src="https://github.com/ashikmhs/bmi-calculator-flutter/blob/master/screenshort/screensort1.png" width="400"  />
 </p>
 
 <p align="center">
-<img src="https://github.com/ashikmhs/bmi-calculator-flutter/blob/master/screenshort/sreensort2.png" width="250"  />
+<img src="https://github.com/ashikmhs/bmi-calculator-flutter/blob/master/screenshort/sreensort2.png" width="400"  />
 </p>
 
 ## Getting Started
